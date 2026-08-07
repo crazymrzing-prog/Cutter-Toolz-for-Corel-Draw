@@ -1,5 +1,9 @@
 # Cutter Toolz for Corel Draw
 
+  <a href="https://github.com/crazymrzing-prog/Cutter-Toolz-for-Corel-Draw/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=download&logoColor=white" alt="Download">
+  </a>
+
 I'm not a Code writer much of this was created using AI
 
 Two CorelDRAW VBA macros — **Quik Cutz** and **Snake Cutz** — for turning a single sticker/cut shape into a full sheet layout automatically, plus a workspace file that adds toolbar buttons for both. Ported from the "Quik Cutz" and "Snake Cutz" Inkscape 1.x extensions.
