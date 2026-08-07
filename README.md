@@ -4,9 +4,7 @@ I'm not a Code writer much of this was created using AI
 
 Two CorelDRAW VBA macros — **Quik Cutz** and **Snake Cutz** — for turning a single sticker/cut shape into a full sheet layout automatically, plus a workspace file that adds toolbar buttons for both. Ported from the "Quik Cutz" and "Snake Cutz" Inkscape 1.x extensions.
 
-<img width="309" height="530" alt="Quik Cutz Corel Draw" src="https://github.com/user-attachments/assets/a34f0c7c-e867-4ca7-92de-35af1b19757d" />
 
-<img width="330" height="580" alt="Snake Cutz Corel Draw" src="https://github.com/user-attachments/assets/93558883-dacf-42d7-8b08-d259500fd832" />
 
 
 
@@ -63,7 +61,8 @@ Steps:
 
 ### Quik Cutz — grid layout from a single sticker
 
-<img width="582" height="504" alt="202608073160" src="https://github.com/user-attachments/assets/f9c5b503-d13f-4563-a021-fde4be0aac8a" />    <img width="334" height="336" alt="202608073150" src="https://github.com/user-attachments/assets/8fc01bda-3804-4f1d-9a3b-2010b9412280" />
+<img width="309" height="530" alt="Quik Cutz Corel Draw" src="https://github.com/user-attachments/assets/d2ae9a52-5859-4e77-b9e1-ccad07683308" />
+   <img width="334" height="336" alt="202608073150" src="https://github.com/user-attachments/assets/8fc01bda-3804-4f1d-9a3b-2010b9412280" />
 
 Select **one native rectangle** (the cut line) plus, optionally, any artwork you want repeated with it (image, text, group), then run the macro.
 
@@ -91,7 +90,8 @@ Select **one native rectangle** (the cut line) plus, optionally, any artwork you
 
 ### Snake Cutz — chained circle/ellipse layout
 
-<img width="528" height="508.5" alt="202608073161" src="https://github.com/user-attachments/assets/781ce6fe-0ac4-4dc3-b465-f563d5af953d" />         <img width="306" height="332" alt="202608073144" src="https://github.com/user-attachments/assets/20ccda43-84ac-4735-a399-40439b686c2c" />
+<img width="330" height="580" alt="Snake Cutz Corel Draw" src="https://github.com/user-attachments/assets/6661ee4a-8363-49c5-89b3-d7d5d48f551d" />
+         <img width="306" height="332" alt="202608073144" src="https://github.com/user-attachments/assets/20ccda43-84ac-4735-a399-40439b686c2c" />
 
 
 Select **one native circle or ellipse** (the cut line) plus, optionally, artwork to repeat, then run the macro. Rectangles, stars, or converted paths aren't accepted — the shape must be a true circle/ellipse.
