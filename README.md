@@ -85,7 +85,8 @@ Select **one native rectangle** (the cut line) plus, optionally, any artwork you
 
 ### Snake Cutz — chained circle/ellipse layout
 
-<img width="528" height="508.5" alt="202608073161" src="https://github.com/user-attachments/assets/781ce6fe-0ac4-4dc3-b465-f563d5af953d" />         <img width="313" height="330" alt="202608073146" src="https://github.com/user-attachments/assets/8b0966fc-de8c-413b-9a4d-937e0de87fed" />
+<img width="528" height="508.5" alt="202608073161" src="https://github.com/user-attachments/assets/781ce6fe-0ac4-4dc3-b465-f563d5af953d" />         <img width="306" height="332" alt="202608073144" src="https://github.com/user-attachments/assets/20ccda43-84ac-4735-a399-40439b686c2c" />
+
 
 Select **one native circle or ellipse** (the cut line) plus, optionally, artwork to repeat, then run the macro. Rectangles, stars, or converted paths aren't accepted — the shape must be a true circle/ellipse.
 
