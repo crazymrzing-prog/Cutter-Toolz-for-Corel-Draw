@@ -92,4 +92,4 @@ Not a macro itself — a CorelDRAW workspace file that adds a toolbar with one-c
 ## Notes
 
 - Both macros are ports of existing Inkscape 1.x Python extensions (`quik_cutz_grid.py` and `snake_cutz.py`), rewritten against CorelDRAW's VBA object model.
-- Since this was largely AI-assisted, feel free to open an issue or PR if something doesn't work as expected on your version of CorelDRAW.
+
