@@ -57,7 +57,7 @@ Steps:
 
 ### Quik Cutz — grid layout from a single sticker
 
-<img width="528" height="508.5" alt="202608073161" src="https://github.com/user-attachments/assets/781ce6fe-0ac4-4dc3-b465-f563d5af953d" />         <img width="313" height="330" alt="202608073146" src="https://github.com/user-attachments/assets/8b0966fc-de8c-413b-9a4d-937e0de87fed" />
+<img width="582" height="504" alt="202608073160" src="https://github.com/user-attachments/assets/f9c5b503-d13f-4563-a021-fde4be0aac8a" />    <img width="334" height="336" alt="202608073150" src="https://github.com/user-attachments/assets/8fc01bda-3804-4f1d-9a3b-2010b9412280" />
 
 Select **one native rectangle** (the cut line) plus, optionally, any artwork you want repeated with it (image, text, group), then run the macro.
 
