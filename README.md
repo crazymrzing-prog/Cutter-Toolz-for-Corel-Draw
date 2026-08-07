@@ -1,4 +1,4 @@
-# Cutter Toolz
+# Cutter Toolz for Corel Draw
 
 I'm not a Code writer much of this was created using AI
 
