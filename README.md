@@ -4,6 +4,12 @@ I'm not a Code writer much of this was created using AI
 
 Two CorelDRAW VBA macros — **Quik Cutz** and **Snake Cutz** — for turning a single sticker/cut shape into a full sheet layout automatically, plus a workspace file that adds toolbar buttons for both. Ported from the "Quik Cutz" and "Snake Cutz" Inkscape 1.x extensions.
 
+<img width="309" height="530" alt="Quik Cutz Corel Draw" src="https://github.com/user-attachments/assets/a34f0c7c-e867-4ca7-92de-35af1b19757d" />
+
+<img width="330" height="580" alt="Snake Cutz Corel Draw" src="https://github.com/user-attachments/assets/93558883-dacf-42d7-8b08-d259500fd832" />
+
+
+
 ## What's in this repo
 
 | File | Description |
